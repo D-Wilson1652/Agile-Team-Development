@@ -1,1 +1,3 @@
-This Projecy was a team effort created my myself and 3 other people. As another member has the origional link, here is a copy of the origional repository
+This project was a team effort created by myself and three other people. As another member has the original link, here is a copy of the original repository.
+
+https://github.com/fahime10/Book-Retail
